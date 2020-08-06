@@ -1,0 +1,13 @@
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.csprojAssemblyReference.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.AssemblyInfoInputs.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.AssemblyInfo.cs
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.csproj.CoreCompileInputs.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\bin\Debug\netcoreapp3.1\deck.exe
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\bin\Debug\netcoreapp3.1\deck.deps.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\bin\Debug\netcoreapp3.1\deck.runtimeconfig.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\bin\Debug\netcoreapp3.1\deck.runtimeconfig.dev.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\bin\Debug\netcoreapp3.1\deck.dll
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\bin\Debug\netcoreapp3.1\deck.pdb
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.dll
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.pdb
+C:\Users\mdcli\Documents\Coding_Dojo\C#\deck\obj\Debug\netcoreapp3.1\deck.genruntimeconfig.cache
